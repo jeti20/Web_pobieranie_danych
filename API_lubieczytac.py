@@ -1,1 +1,0 @@
-curl 'https://lubimyczytac.pl/ksiazka/4921407/czarny-labedz-jak-nieprzewidywalne-zdarzenia-rzadza-naszym-zyciem' -s | grep -E '<meta|<link|sBookDescriptionLong'/>
